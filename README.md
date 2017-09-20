@@ -16,10 +16,10 @@ By default this works for the test-API for vipparcel not prod. You can change th
 
 Here is the interface added to the admin section https://imgur.com/a/ywJO9 it is pretty straight forward, you must setup your own profiles to charge shipping. As you can see in the example that is what I changed myself for test shipping it is not the actual shipping cost.
 
-THIS IS PURELY TO PRINT SHIPPING LABELS FOR USPS via VIPparcel, not do any of your shipping profiles.
+THIS IS PURELY TO PRINT SHIPPING LABELS FOR USPS via VIPparcel, not to do any of your shipping profiles.
 
 If you have any questions, feel free to contact me. If you like it contribute and send me a PR :)
 
 
 
-# vipper
+# jedicloudsolutions.com
