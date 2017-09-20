@@ -3,7 +3,7 @@ vipparcel.com PrestaShop usps shipping module
 
 I found the need for this purely out of laziness. My wife and I run a large online store that is PrestaShop based. We found ourselfs manually doing all of the shipping at first (Copy and Paste / Rinse and Repeat).
 
-We found this taking up way to much time, so we had someone write the first version of this. It not complete and sloppy, I have done what I can to fix it and get it properly working.
+We found this taking up way to much time, so we had someone write the first version of this. It was not complete and sloppy, I have done what I can to fix it and get it properly working.
 
 So far it will do First Class and Media Mail. (USPS)
 
